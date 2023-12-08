@@ -1,0 +1,1526 @@
+county,state,policy_type,start_date,stop_date
+Marin,CA,Shelter in Place,3/17/20,5/31/20
+Santa Clara,CA,Shelter in Place,3/17/20,5/31/20
+San Mateo,CA,Shelter in Place,3/17/20,5/31/20
+Sarpy,NE,Shelter in Place,3/18/20,4/30/20
+Cass,NE,Shelter in Place,3/18/20,4/30/20
+Solano,CA,Shelter in Place,3/18/20,4/30/20
+Monterey,CA,Shelter in Place,3/18/20,5/4/20
+San Benito,CA,Shelter in Place,3/18/20,5/3/20
+San Miguel,CO,Shelter in Place,3/19/20,5/1/20
+Blaine,ID,Shelter in Place,3/19/20,
+Merced,CA,Shelter in Place,3/20/20,
+Humboldt,CA,Shelter in Place,3/20/20,
+Amador,CA,Shelter in Place,3/20/20,4/30/20
+Inyo,CA,Shelter in Place,3/20/20,
+Placer,CA,Shelter in Place,3/20/20,5/1/20
+Los Angeles,CA,Shelter in Place,3/21/20,
+Cook,IL,Outdoor and Recreation,3/21/20,5/30/20
+Cook,IL,Entertainment,3/21/20,5/30/20
+Cook,IL,Food and Drink,3/21/20,5/30/20
+San Joaquin,CA,Shelter in Place,3/21/20,
+Val Verde,TX,Shelter in Place,3/23/20,5/5/20
+Bell,TX,Shelter in Place,3/23/20,4/20/20
+Dallas,TX,Shelter in Place,3/23/20,5/15/20
+Pitkin,CO,Shelter in Place,3/23/20,4/30/20
+St. Louis,MO,Shelter in Place,3/23/20,4/22/20
+St. Louis city,MO,Shelter in Place,3/23/20,4/22/20
+Delaware,PA,Shelter in Place,3/23/20,4/30/20
+Chester,PA,Shelter in Place,3/23/20,4/30/20
+District of Columbia,DC,Shelter in Place,3/23/20,6/8/20
+Platte,MO,Shelter in Place,3/24/20,4/23/20
+Leavenworth,KS,Shelter in Place,3/24/20,4/23/20
+Carroll,GA,Shelter in Place,3/24/20,4/12/20
+Tarrant,TX,Shelter in Place,3/24/20,4/30/20
+Knox,TN,Shelter in Place,3/24/20,4/7/20
+Clay,NC,Shelter in Place,3/24/20,4/24/20
+Shelby,TN,Shelter in Place,3/24/20,4/7/20
+Liberty,TX,Shelter in Place,3/24/20,4/30/20
+Johnson,KS,Shelter in Place,3/24/20,4/23/20
+Brazos,TX,Shelter in Place,3/24/20,4/21/20
+Douglas,KS,Shelter in Place,3/24/20,4/23/20
+Cass,MO,Shelter in Place,3/24/20,4/24/20
+Pickens,GA,Shelter in Place,3/24/20,4/7/20
+Erie,PA,Shelter in Place,3/25/20,4/6/20
+Lehigh,PA,Shelter in Place,3/25/20,4/30/20
+Marion,IN,Shelter in Place,3/25/20,5/15/20
+Floyd,GA,Shelter in Place,3/25/20,4/7/20
+Haines Borough,AK,Shelter in Place,3/25/20,4/15/20
+Robertson,TX,Shelter in Place,3/25/20,4/30/20
+Sedgwick,KS,Shelter in Place,3/25/20,
+Navarro,TX,Shelter in Place,3/25/20,4/30/20
+Dodge,NE,Shelter in Place,3/25/20,5/6/20
+Cameron,TX,Shelter in Place,3/25/20,8/20/20
+Washington,NE,Shelter in Place,3/25/20,5/6/20
+Ray,MO,Shelter in Place,3/25/20,4/24/20
+Skagway Municipality,AK,Shelter in Place,3/25/20,4/8/20
+Erath,TX,Shelter in Place,3/25/20,4/30/20
+Miami,KS,Shelter in Place,3/25/20,4/23/20
+Fort Bend,TX,Shelter in Place,3/25/20,4/30/20
+Decatur,GA,Shelter in Place,3/25/20,4/7/20
+Atchison,KS,Shelter in Place,3/25/20,4/25/20
+Morris,KS,Shelter in Place,3/25/20,4/25/20
+Burnet,TX,Shelter in Place,3/25/20,4/2/20
+Shawnee,KS,Shelter in Place,3/26/20,
+Willacy,TX,Shelter in Place,3/26/20,5/4/20
+Jefferson,CO,Shelter in Place,3/26/20,3/26/20
+Hidalgo,TX,Shelter in Place,3/26/20,4/30/20
+Arapahoe,CO,Shelter in Place,3/26/20,3/26/20
+Douglas,CO,Shelter in Place,3/26/20,3/26/20
+Boulder,CO,Shelter in Place,3/26/20,3/26/20
+Coffey,KS,Shelter in Place,3/26/20,
+Nueces,TX,Shelter in Place,3/26/20,4/30/20
+Webster,MO,Shelter in Place,3/26/20,4/24/20
+Hardin,TX,Shelter in Place,3/27/20,5/1/20
+Orange,NC,Shelter in Place,3/27/20,4/30/20
+Guilford,NC,Shelter in Place,3/27/20,4/16/20
+York,PA,Shelter in Place,3/27/20,4/30/20
+Wayne,PA,Shelter in Place,3/27/20,4/30/20
+Gaston,NC,Shelter in Place,3/27/20,4/16/20
+Butler,PA,Shelter in Place,3/27/20,4/30/20
+Buncombe,NC,Shelter in Place,3/27/20,4/9/20
+Kleberg,TX,Shelter in Place,3/27/20,4/30/20
+Berks,PA,Shelter in Place,3/27/20,4/30/20
+Smith,TX,Shelter in Place,3/27/20,4/30/20
+Caldwell,MO,Shelter in Place,3/27/20,
+Sumner,KS,Shelter in Place,3/27/20,4/25/20
+Seward,NE,Shelter in Place,3/28/20,5/6/20
+Bee,TX,Shelter in Place,3/28/20,4/30/20
+Rutherford,NC,Shelter in Place,3/28/20,4/17/20
+Jasper,TX,Shelter in Place,3/28/20,5/10/20
+Butler,NE,Shelter in Place,3/28/20,5/6/20
+Rooks,KS,Shelter in Place,3/28/20,4/28/20
+Washington,PA,Shelter in Place,3/28/20,4/30/20
+Hamilton,NE,Shelter in Place,3/28/20,5/6/20
+Centre,PA,Shelter in Place,3/28/20,4/30/20
+Stonewall,TX,Shelter in Place,3/28/20,4/18/20
+Tyler,TX,Shelter in Place,3/28/20,4/30/20
+Jefferson,KS,Shelter in Place,3/28/20,4/14/20
+Gwinnett,GA,Shelter in Place,3/28/20,4/13/20
+Cole,MO,Shelter in Place,3/28/20,4/25/20
+Lincoln,MO,Shelter in Place,3/29/20,4/6/20
+Madison,NE,Shelter in Place,3/29/20,5/6/20
+Durham,NC,Shelter in Place,3/29/20,
+Cuming,NE,Shelter in Place,3/29/20,5/6/20
+Box Butte,NE,Shelter in Place,3/30/20,5/11/20
+Grant,NE,Shelter in Place,3/30/20,5/11/20
+San Patricio,TX,Shelter in Place,3/30/20,5/4/20
+Harrison,MO,Shelter in Place,3/30/20,
+Bates,MO,Shelter in Place,3/30/20,4/24/20
+Schuylkill,PA,Shelter in Place,3/30/20,4/30/20
+Scotts Bluff,NE,Shelter in Place,3/30/20,5/11/20
+Deuel,NE,Shelter in Place,3/30/20,5/11/20
+Sheridan,NE,Shelter in Place,3/30/20,5/11/20
+Dawes,NE,Shelter in Place,3/30/20,5/11/20
+Palm Beach,FL,Shelter in Place,3/30/20,
+Nacogdoches,TX,Shelter in Place,3/30/20,
+Cheyenne,NE,Shelter in Place,3/30/20,5/11/20
+Reno,KS,Shelter in Place,3/30/20,4/14/20
+Newton,TX,Shelter in Place,3/30/20,4/30/20
+Potter,TX,Shelter in Place,3/30/20,
+Harlan,NE,Shelter in Place,3/31/20,5/11/20
+Caldwell,TX,Shelter in Place,3/31/20,4/8/20
+Sabine,TX,Shelter in Place,3/31/20,4/30/20
+Forest,PA,Shelter in Place,3/31/20,4/30/20
+Hale,TX,Shelter in Place,3/31/20,4/30/20
+Hockley,TX,Shelter in Place,3/31/20,4/30/20
+Gasconade,MO,Shelter in Place,3/31/20,4/16/20
+Jeff Davis,TX,Shelter in Place,3/31/20,4/30/20
+Taylor,TX,Shelter in Place,3/31/20,4/30/20
+Brewster,TX,Shelter in Place,3/31/20,4/30/20
+Adams,NE,Shelter in Place,3/31/20,5/11/20
+Nuckolls,NE,Shelter in Place,3/31/20,5/11/20
+Maverick,TX,Shelter in Place,3/31/20,
+Franklin,NE,Shelter in Place,3/31/20,5/11/20
+Marion,TX,Shelter in Place,3/31/20,4/30/20
+Lebanon,PA,Shelter in Place,3/31/20,4/30/20
+Antelope,NE,Shelter in Place,4/1/20,5/11/20
+Zapata,TX,Shelter in Place,4/1/20,5/11/20
+Rock,NE,Shelter in Place,4/1/20,5/11/20
+Fulton,GA,Shelter in Place,4/1/20,
+Refugio,TX,Shelter in Place,4/1/20,4/30/20
+Thomas,NE,Shelter in Place,4/1/20,5/11/20
+Young,TX,Shelter in Place,4/1/20,5/1/20
+Boyd,NE,Shelter in Place,4/1/20,5/11/20
+Fulton,GA,Entertainment,4/1/20,4/30/20
+Fulton,GA,Non-Essential Businesses,4/1/20,4/30/20
+Lampasas,TX,Shelter in Place,4/1/20,4/21/20
+Imperial,CA,Shelter in Place,4/1/20,
+Fulton,GA,Outdoor and Recreation,4/1/20,4/30/20
+Wasatch,UT,Shelter in Place,4/1/20,4/14/20
+Clayton,GA,Shelter in Place,4/1/20,4/12/20
+Fulton,GA,Food and Drink,4/1/20,4/30/20
+Holt,NE,Shelter in Place,4/1/20,5/11/20
+Arthur,NE,Shelter in Place,4/1/20,5/11/20
+McPherson,NE,Shelter in Place,4/1/20,5/11/20
+Wood,TX,Shelter in Place,4/1/20,
+Lincoln,NE,Shelter in Place,4/1/20,5/11/20
+Anderson,TX,Shelter in Place,4/2/20,
+Limestone,TX,Shelter in Place,4/2/20,4/30/20
+Pecos,TX,Shelter in Place,4/2/20,
+Thayer,NE,Shelter in Place,4/3/20,5/11/20
+Frontier,NE,Shelter in Place,4/3/20,5/11/20
+Warren,MS,Shelter in Place,4/3/20,4/20/20
+Gage,NE,Shelter in Place,4/3/20,5/11/20
+Comal,TX,Shelter in Place,4/3/20,4/30/20
+Colfax,NE,Shelter in Place,4/3/20,5/11/20
+Dakota,NE,Shelter in Place,4/3/20,5/11/20
+Wayne,NE,Shelter in Place,4/3/20,5/11/20
+Perkins,NE,Shelter in Place,4/3/20,5/11/20
+Howard,NE,Shelter in Place,4/3/20,5/11/20
+Red Willow,NE,Shelter in Place,4/3/20,5/11/20
+Richardson,NE,Shelter in Place,4/3/20,5/11/20
+Terry,TX,Shelter in Place,4/3/20,
+Sherman,NE,Shelter in Place,4/3/20,5/11/20
+Furnas,NE,Shelter in Place,4/3/20,5/11/20
+Calhoun,TX,Shelter in Place,4/3/20,4/30/20
+Chase,NE,Shelter in Place,4/3/20,5/11/20
+Hayes,NE,Shelter in Place,4/3/20,5/11/20
+Hitchcock,NE,Shelter in Place,4/3/20,5/11/20
+Johnson,NE,Shelter in Place,4/3/20,5/11/20
+Greeley,NE,Shelter in Place,4/3/20,5/11/20
+Wheeler,NE,Shelter in Place,4/3/20,5/11/20
+Blaine,NE,Shelter in Place,4/3/20,5/11/20
+Dixon,NE,Shelter in Place,4/3/20,5/11/20
+Platte,NE,Shelter in Place,4/3/20,5/11/20
+St. Francois,MO,Shelter in Place,4/3/20,
+Otoe,NE,Shelter in Place,4/3/20,5/11/20
+Valley,NE,Shelter in Place,4/3/20,5/11/20
+Andrews,TX,Shelter in Place,4/4/20,4/22/20
+St. Lucie,FL,Shelter in Place,4/4/20,4/24/20
+Scott,MO,Shelter in Place,4/4/20,
+Jefferson,WV,Shelter in Place,4/6/20,
+Hopkins,TX,Shelter in Place,4/6/20,4/30/20
+McDonald,MO,Shelter in Place,4/6/20,4/30/20
+Henderson,TX,Shelter in Place,4/7/20,4/30/20
+Reynolds,MO,Shelter in Place,4/7/20,
+Armstrong,TX,Shelter in Place,4/7/20,
+Callahan,TX,Shelter in Place,4/8/20,5/4/20
+Colusa,CA,Shelter in Place,4/10/20,5/8/20
+Nevada,CA,Shelter in Place,4/15/20,5/15/20
+Denton,TX,New Phase,4/27/20,
+Jackson,MO,Personal Care,5/11/20,5/31/20
+Jackson,MO,Phase 1,5/11/20,5/31/20
+Oxford,ME,Non-Essential Businesses,5/11/20,
+Knox,ME,Non-Essential Businesses,5/11/20,
+Hancock,ME,Non-Essential Businesses,5/11/20,
+Jackson,MO,Childcare (K-12),5/11/20,5/31/20
+Lake,IN,Phase 2,5/11/20,6/1/20
+Aroostook,ME,Non-Essential Businesses,5/11/20,
+Jackson,MO,New Phase,5/11/20,5/25/20
+Franklin,ME,Non-Essential Businesses,5/11/20,
+Jackson,MO,Houses of Worship,5/11/20,5/31/20
+Lincoln,ME,Non-Essential Businesses,5/11/20,
+Dane,WI,Shelter in Place,5/13/20,
+Ventura,CA,Shelter in Place,11/16/20,5/15/20
+Lane,OR,Outdoor and Recreation,5/15/20,
+Lane,OR,Food and Drink,5/15/20,
+Broward,FL,Personal Care,5/18/20,
+Hancock,ME,Outdoor and Recreation,5/18/20,
+Hancock,ME,Food and Drink,5/18/20,
+Lincoln,ME,Food and Drink,5/18/20,
+Oxford,ME,Food and Drink,5/18/20,
+Aroostook,ME,Food and Drink,5/18/20,
+Franklin,ME,Food and Drink,5/18/20,
+Knox,ME,Food and Drink,5/18/20,
+Franklin,ME,Outdoor and Recreation,5/18/20,
+Alameda,CA,Food and Drink,5/18/20,
+Lincoln,ME,Outdoor and Recreation,5/18/20,
+Alameda,CA,Entertainment,5/18/20,
+Aroostook,ME,Outdoor and Recreation,5/18/20,
+Oxford,ME,Outdoor and Recreation,5/18/20,
+Knox,ME,Outdoor and Recreation,5/18/20,
+Alameda,CA,Outdoor and Recreation,5/18/20,
+Bexar,TX,Non-Essential Businesses,5/19/20,6/4/20
+Bexar,TX,Outdoor and Recreation,5/19/20,6/4/20
+Bexar,TX,Shelter in Place,5/19/20,6/4/20
+Bexar,TX,Entertainment,5/19/20,6/4/20
+Bexar,TX,Food and Drink,5/19/20,6/4/20
+Clackamas,OR,Outdoor and Recreation,5/23/20,
+Clackamas,OR,Non-Essential Businesses,5/23/20,
+Clackamas,OR,Food and Drink,5/23/20,
+Dane,WI,Non-Essential Businesses,5/26/20,
+Dane,WI,Entertainment,5/26/20,
+Dane,WI,Food and Drink,5/26/20,
+Dane,WI,Outdoor and Recreation,5/26/20,
+Alameda,CA,Non-Essential Businesses,5/29/20,
+Alameda,CA,Shelter in Place,5/29/20,5/31/20
+York,ME,Non-Essential Businesses,6/1/20,
+Penobscot,ME,Food and Drink,6/1/20,
+Lake,IN,Phase 3,6/1/20,6/13/20
+York,ME,Food and Drink,6/1/20,
+Jackson,MO,Phase 2,6/1/20,
+Penobscot,ME,Non-Essential Businesses,6/1/20,
+Benton,OR,Food and Drink,6/5/20,
+Benton,OR,Outdoor and Recreation,6/5/20,
+Denver,CO,Phase 2,6/6/20,
+Baker,OR,Houses of Worship,6/6/20,
+Baker,OR,New Phase,6/6/20,
+Kings,NY,New Phase,6/8/20,
+Queens,NY,New Phase,6/8/20,
+New York,NY,Construction,6/8/20,
+Bronx,NY,New Phase,6/8/20,
+Queens,NY,Manufacturing,6/8/20,
+New York,NY,Manufacturing,6/8/20,
+Richmond,NY,Manufacturing,6/8/20,
+Queens,NY,Construction,6/8/20,
+Bronx,NY,Manufacturing,6/8/20,
+Richmond,NY,New Phase,6/8/20,
+Kings,NY,Manufacturing,6/8/20,
+Bronx,NY,Construction,6/8/20,
+New York,NY,New Phase,6/8/20,
+Columbia,PA,Phase 2,6/12/20,
+Carbon,PA,Phase 2,6/12/20,
+Beaver,PA,Phase 2,6/12/20,
+Kane,UT,Phase 4,6/12/20,6/26/20
+Cumberland,PA,Phase 2,6/12/20,
+Union,PA,Phase 2,6/12/20,
+Bear Lake,ID,Food and Drink,6/13/20,
+Bear Lake,ID,Entertainment,6/13/20,
+Bear Lake,ID,Outdoor and Recreation,6/13/20,
+Adams,ID,Non-Essential Businesses,6/13/20,
+Adams,ID,Phase 4,6/13/20,
+Adams,ID,Outdoor and Recreation,6/13/20,
+Adams,ID,Food and Drink,6/13/20,
+Bear Lake,ID,Non-Essential Businesses,6/13/20,
+Bear Lake,ID,Phase 4,6/13/20,
+Adams,ID,Entertainment,6/13/20,
+Merrimack,NH,Food and Drink,6/15/20,
+Sullivan,NH,Food and Drink,6/15/20,
+Belknap,NH,Food and Drink,6/15/20,
+Grafton,NH,Food and Drink,6/15/20,
+Cheshire,NH,Food and Drink,6/15/20,
+Hillsborough,NH,Food and Drink,6/15/20,
+Rockingham,NH,Food and Drink,6/15/20,
+Cattaraugus,NY,Phase 3,6/16/20,6/30/20
+Allegany,NY,Phase 3,6/16/20,6/30/20
+York,ME,Outdoor and Recreation,6/17/20,
+Franklin,PA,Phase 2,6/19/20,
+Monroe,PA,Phase 2,6/19/20,
+Uintah,UT,Phase 4,6/19/20,
+Beaver,UT,Phase 4,6/19/20,
+Perry,PA,Phase 2,6/19/20,
+Duchesne,UT,Phase 4,6/19/20,
+Luzerne,PA,Phase 2,6/19/20,
+Pike,PA,Phase 2,6/19/20,
+Dauphin,PA,Phase 2,6/19/20,
+Ada,ID,Food and Drink,6/24/20,
+LaSalle,IL,Food and Drink,6/26/20,
+Lancaster,PA,Phase 2,6/26/20,
+LaSalle,IL,Phase 4,6/26/20,
+Montgomery,PA,Phase 2,6/26/20,
+Bucks,PA,Phase 2,6/26/20,
+Lackawanna,PA,Phase 2,6/26/20,
+LaSalle,IL,Outdoor and Recreation,6/26/20,
+Salt Lake,UT,Phase 3,6/26/20,
+Northampton,PA,Phase 2,6/26/20,
+LaSalle,IL,Non-Essential Businesses,6/26/20,
+LaSalle,IL,Entertainment,6/26/20,
+Summit,UT,Phase 3,6/27/20,
+Wyandotte,KS,Mask Mandate,6/30/20,
+Palm Beach,FL,Non-Essential Businesses,7/3/20,7/5/20
+Edwards,TX,Mask Mandate,7/3/20,
+Irion,TX,Mask Mandate,7/3/20,
+Runnels,TX,Mask Mandate,7/3/20,
+Fisher,TX,Mask Mandate,7/3/20,
+Throckmorton,TX,Mask Mandate,7/3/20,
+Rains,TX,Mask Mandate,7/3/20,
+Mills,TX,Mask Mandate,7/3/20,
+Lynn,TX,Mask Mandate,7/3/20,
+Coke,TX,Mask Mandate,7/3/20,
+Cottle,TX,Mask Mandate,7/3/20,
+Cochran,TX,Mask Mandate,7/3/20,
+Yoakum,TX,Mask Mandate,7/3/20,
+Terrell,TX,Mask Mandate,7/3/20,
+Real,TX,Mask Mandate,7/3/20,
+Schleicher,TX,Mask Mandate,7/3/20,
+Upton,TX,Mask Mandate,7/3/20,
+Glasscock,TX,Mask Mandate,7/3/20,
+Knox,TX,Mask Mandate,7/3/20,
+Briscoe,TX,Mask Mandate,7/3/20,
+Montague,TX,Mask Mandate,7/3/20,
+Coleman,TX,Mask Mandate,7/3/20,
+Foard,TX,Mask Mandate,7/3/20,
+Palm Beach,FL,Outdoor and Recreation,7/3/20,7/5/20
+Kinney,TX,Mask Mandate,7/3/20,
+Archer,TX,Mask Mandate,7/3/20,
+Wilbarger,TX,Mask Mandate,7/3/20,
+Hansford,TX,Mask Mandate,7/3/20,
+Palm Beach,FL,Food and Drink,7/3/20,7/5/20
+King,TX,Mask Mandate,7/3/20,
+Gray,TX,Mask Mandate,7/3/20,
+Crosby,TX,Mask Mandate,7/3/20,
+Martin,TX,Mask Mandate,7/3/20,
+Sterling,TX,Mask Mandate,7/3/20,
+Eastland,TX,Mask Mandate,7/3/20,
+Haskell,TX,Mask Mandate,7/3/20,
+Kent,TX,Mask Mandate,7/3/20,
+Dickens,TX,Mask Mandate,7/3/20,
+Hudspeth,TX,Mask Mandate,7/3/20,
+Mason,TX,Mask Mandate,7/3/20,
+Ochiltree,TX,Mask Mandate,7/3/20,
+Red River,TX,Mask Mandate,7/3/20,
+Grand,UT,Phase 3,7/3/20,
+Bronx,NY,Phase 3,7/6/20,
+Queens,NY,Phase 3,7/6/20,
+Kings,NY,Phase 3,7/6/20,
+New York,NY,Phase 3,7/6/20,
+Hamilton,OH,Mask Mandate,7/8/20,
+Cumberland,ME,Mask Mandate,7/8/20,
+Trumbull,OH,Mask Mandate,7/8/20,
+Cuyahoga,OH,Mask Mandate,7/8/20,
+Sagadahoc,ME,Mask Mandate,7/8/20,
+Waldo,ME,Mask Mandate,7/8/20,
+Franklin,OH,Mask Mandate,7/8/20,
+Miami-Dade,FL,Personal Care,7/9/20,
+Miami-Dade,FL,Mask Mandate,7/9/20,
+Fairfield,OH,Mask Mandate,7/10/20,
+Wood,OH,Mask Mandate,7/10/20,
+Pickaway,OH,Mask Mandate,7/10/20,
+Clermont,OH,Mask Mandate,7/10/20,
+Summit,OH,Mask Mandate,7/10/20,
+Quitman,MS,Manufacturing,7/13/20,7/20/20
+Wayne,MS,Day Care,7/13/20,7/20/20
+Jefferson,MS,Day Care,7/13/20,7/20/20
+Sunflower,MS,Non-Essential Businesses,7/13/20,7/20/20
+Harrison,MS,Manufacturing,7/13/20,7/20/20
+Jackson,MS,Day Care,7/13/20,7/20/20
+Washington,MS,Food and Drink,7/13/20,7/20/20
+Washington,MS,Outdoor and Recreation,7/13/20,7/20/20
+Jackson,MS,Childcare (K-12),7/13/20,7/20/20
+Harrison,MS,Childcare (K-12),7/13/20,7/20/20
+DeSoto,MS,Non-Essential Businesses,7/13/20,7/20/20
+Quitman,MS,Houses of Worship,7/13/20,7/20/20
+Madison,MS,Non-Essential Businesses,7/13/20,7/20/20
+Harrison,MS,Houses of Worship,7/13/20,7/20/20
+Rankin,MS,Outdoor and Recreation,7/13/20,7/20/20
+Rankin,MS,Food and Drink,7/13/20,7/20/20
+DeSoto,MS,Food and Drink,7/13/20,7/20/20
+Sunflower,MS,Outdoor and Recreation,7/13/20,7/20/20
+Hinds,MS,Manufacturing,7/13/20,7/20/20
+Madison,MS,Food and Drink,7/13/20,7/20/20
+Harrison,MS,Day Care,7/13/20,7/20/20
+Madison,MS,Outdoor and Recreation,7/13/20,7/20/20
+Sunflower,MS,Entertainment,7/13/20,7/20/20
+Grenada,MS,Manufacturing,7/13/20,7/20/20
+Quitman,MS,Day Care,7/13/20,7/20/20
+Grenada,MS,Houses of Worship,7/13/20,7/20/20
+Wayne,MS,Houses of Worship,7/13/20,7/20/20
+Hinds,MS,Childcare (K-12),7/13/20,7/20/20
+Claiborne,MS,Manufacturing,7/13/20,7/20/20
+Grenada,MS,Childcare (K-12),7/13/20,7/20/20
+Jackson,MS,Houses of Worship,7/13/20,7/20/20
+Claiborne,MS,Houses of Worship,7/13/20,7/20/20
+Jefferson,MS,Childcare (K-12),7/13/20,7/20/20
+Claiborne,MS,Day Care,7/13/20,7/20/20
+Quitman,MS,Childcare (K-12),7/13/20,7/20/20
+Rankin,MS,Non-Essential Businesses,7/13/20,7/20/20
+Wayne,MS,Manufacturing,7/13/20,7/20/20
+Washington,MS,Entertainment,7/13/20,7/20/20
+Hinds,MS,Day Care,7/13/20,7/20/20
+Madison,MS,Entertainment,7/13/20,7/20/20
+Hinds,MS,Houses of Worship,7/13/20,7/20/20
+Wayne,MS,Childcare (K-12),7/13/20,7/20/20
+Rankin,MS,Entertainment,7/13/20,7/20/20
+Grenada,MS,Day Care,7/13/20,7/20/20
+DeSoto,MS,Entertainment,7/13/20,7/20/20
+Washington,MS,Non-Essential Businesses,7/13/20,7/20/20
+Claiborne,MS,Childcare (K-12),7/13/20,7/20/20
+Sunflower,MS,Food and Drink,7/13/20,7/20/20
+Jefferson,MS,Houses of Worship,7/13/20,7/20/20
+Jackson,MS,Manufacturing,7/13/20,7/20/20
+DeSoto,MS,Outdoor and Recreation,7/13/20,7/20/20
+Jefferson,MS,Manufacturing,7/13/20,7/20/20
+Montgomery,OH,Mask Mandate,7/16/20,
+Scioto,OH,Mask Mandate,7/17/20,
+Salt Lake,UT,Phase 2,7/17/20,8/7/20
+Athens,OH,Mask Mandate,7/17/20,
+Denver,CO,Mask Mandate,7/21/20,
+Marion,OH,Public Health Advisory System,7/23/20,
+Lorain,OH,Public Health Advisory System,7/23/20,
+Delaware,OH,Public Health Advisory System,7/23/20,
+Union,OH,Public Health Advisory System,7/23/20,
+Licking,OH,Public Health Advisory System,7/23/20,
+Lucas,OH,Public Health Advisory System,7/23/20,
+Butler,OH,Public Health Advisory System,7/23/20,
+Clark,OH,Public Health Advisory System,7/23/20,
+Erie,OH,Public Health Advisory System,7/23/20,
+Richland,OH,Public Health Advisory System,7/23/20,
+Defiance,OH,Public Health Advisory System,7/23/20,
+Allen,OH,Public Health Advisory System,7/23/20,
+Winston,MS,Phase 3,7/25/20,8/3/20
+Holmes,MS,Phase 3,7/25/20,8/3/20
+Yalobusha,MS,Phase 3,7/25/20,8/3/20
+Calhoun,MS,Phase 3,7/25/20,8/3/20
+Delta,MI,Entertainment,7/31/20,
+Benzie,MI,Entertainment,7/31/20,
+Baraga,MI,Entertainment,7/31/20,
+Houghton,MI,Entertainment,7/31/20,
+Delta,MI,Outdoor and Recreation,7/31/20,
+Charlevoix,MI,Outdoor and Recreation,7/31/20,
+Manistee,MI,Outdoor and Recreation,7/31/20,
+Marquette,MI,Entertainment,7/31/20,
+Charlevoix,MI,Entertainment,7/31/20,
+Schoolcraft,MI,Outdoor and Recreation,7/31/20,
+Alger,MI,Entertainment,7/31/20,
+Leelanau,MI,Outdoor and Recreation,7/31/20,
+Emmet,MI,Entertainment,7/31/20,
+Chippewa,MI,Outdoor and Recreation,7/31/20,
+Dickinson,MI,Outdoor and Recreation,7/31/20,
+Emmet,MI,Outdoor and Recreation,7/31/20,
+Benzie,MI,Outdoor and Recreation,7/31/20,
+Roscommon,MI,Outdoor and Recreation,7/31/20,
+Missaukee,MI,Outdoor and Recreation,7/31/20,
+Baraga,MI,Outdoor and Recreation,7/31/20,
+Manistee,MI,Entertainment,7/31/20,
+Chippewa,MI,Entertainment,7/31/20,
+Leelanau,MI,Entertainment,7/31/20,
+Umatilla,OR,Shelter in Place,7/31/20,8/21/20
+Houghton,MI,Outdoor and Recreation,7/31/20,
+Kalkaska,MI,Outdoor and Recreation,7/31/20,
+Roscommon,MI,Entertainment,7/31/20,
+Otsego,MI,Outdoor and Recreation,7/31/20,
+Alger,MI,Outdoor and Recreation,7/31/20,
+Crawford,MI,Entertainment,7/31/20,
+Otsego,MI,Entertainment,7/31/20,
+Kalkaska,MI,Entertainment,7/31/20,
+Crawford,MI,Outdoor and Recreation,7/31/20,
+Schoolcraft,MI,Entertainment,7/31/20,
+Missaukee,MI,Entertainment,7/31/20,
+Keweenaw,MI,Outdoor and Recreation,7/31/20,
+Dickinson,MI,Entertainment,7/31/20,
+Gogebic,MI,Outdoor and Recreation,7/31/20,
+Keweenaw,MI,Entertainment,7/31/20,
+Gogebic,MI,Entertainment,7/31/20,
+Marquette,MI,Outdoor and Recreation,7/31/20,
+Cache,UT,Mask Mandate,8/1/20,8/30/20
+Monongalia,WV,Food and Drink,8/12/20,8/20/20
+Clinton,IL,Food and Drink,8/18/20,
+Madison,IL,Entertainment,8/18/20,
+Randolph,IL,Entertainment,8/18/20,
+Bond,IL,Entertainment,8/18/20,
+St. Clair,IL,Food and Drink,8/18/20,
+Madison,IL,Food and Drink,8/18/20,
+Bond,IL,Non-Essential Businesses,8/18/20,
+Clinton,IL,Non-Essential Businesses,8/18/20,
+Washington,IL,Entertainment,8/18/20,
+St. Clair,IL,Entertainment,8/18/20,
+Washington,IL,Non-Essential Businesses,8/18/20,
+Randolph,IL,Food and Drink,8/18/20,
+Bond,IL,Food and Drink,8/18/20,
+Randolph,IL,Non-Essential Businesses,8/18/20,
+Hancock,IL,Non-Essential Businesses,8/18/20,
+Clinton,IL,Entertainment,8/18/20,
+Washington,IL,Food and Drink,8/18/20,
+St. Clair,IL,Non-Essential Businesses,8/18/20,
+Navajo,AZ,Outdoor and Recreation,8/27/20,
+Yavapai,AZ,Outdoor and Recreation,8/27/20,
+Polk,IA,Food and Drink,8/27/20,9/20/20
+Cochise,AZ,Outdoor and Recreation,8/27/20,
+Maricopa,AZ,Outdoor and Recreation,8/27/20,
+La Paz,AZ,Outdoor and Recreation,8/27/20,
+Navajo,AZ,Non-Essential Businesses,8/27/20,
+Black Hawk,IA,Food and Drink,8/27/20,9/20/20
+Maricopa,AZ,Non-Essential Businesses,8/27/20,
+Coconino,AZ,Outdoor and Recreation,8/27/20,
+Yavapai,AZ,Non-Essential Businesses,8/27/20,
+Linn,IA,Food and Drink,8/27/20,9/20/20
+La Paz,AZ,Non-Essential Businesses,8/27/20,
+Coconino,AZ,Non-Essential Businesses,8/27/20,
+Cochise,AZ,Non-Essential Businesses,8/27/20,
+Wells,ND,Phase 5,9/3/20,
+Rolette,ND,Food and Drink,9/3/20,
+LaMoure,ND,Phase 5,9/3/20,
+LaMoure,ND,Non-Essential Businesses,9/3/20,
+Foster,ND,Non-Essential Businesses,9/3/20,
+Mercer,ND,Non-Essential Businesses,9/3/20,
+Stark,ND,Outdoor and Recreation,9/3/20,
+Billings,ND,Non-Essential Businesses,9/3/20,
+Wells,ND,Food and Drink,9/3/20,
+McLean,ND,Outdoor and Recreation,9/3/20,
+Benson,ND,Non-Essential Businesses,9/3/20,
+Pembina,ND,Food and Drink,9/3/20,
+Williams,ND,Outdoor and Recreation,9/3/20,
+Billings,ND,Food and Drink,9/3/20,
+Barnes,ND,Childcare (K-12),9/3/20,
+Pierce,ND,Childcare (K-12),9/3/20,
+Barnes,ND,Phase 3,9/3/20,
+Rolette,ND,Outdoor and Recreation,9/3/20,
+Billings,ND,Outdoor and Recreation,9/3/20,
+McLean,ND,Non-Essential Businesses,9/3/20,
+Griggs,ND,Phase 5,9/3/20,
+Mercer,ND,Outdoor and Recreation,9/3/20,
+Griggs,ND,Food and Drink,9/3/20,
+Walsh,ND,Outdoor and Recreation,9/3/20,
+Walsh,ND,Phase 5,9/3/20,
+Wells,ND,Non-Essential Businesses,9/3/20,
+Cavalier,ND,Phase 5,9/3/20,
+Renville,ND,Food and Drink,9/3/20,
+Cavalier,ND,Non-Essential Businesses,9/3/20,
+Mercer,ND,Food and Drink,9/3/20,
+Traill,ND,Outdoor and Recreation,9/3/20,
+LaMoure,ND,Food and Drink,9/3/20,
+Wells,ND,Outdoor and Recreation,9/3/20,
+Stark,ND,Non-Essential Businesses,9/3/20,
+Foster,ND,Phase 5,9/3/20,
+Renville,ND,Phase 5,9/3/20,
+Stark,ND,Food and Drink,9/3/20,
+Mercer,ND,Phase 5,9/3/20,
+Cavalier,ND,Outdoor and Recreation,9/3/20,
+Nelson,ND,Childcare (K-12),9/3/20,
+Griggs,ND,Non-Essential Businesses,9/3/20,
+Traill,ND,Food and Drink,9/3/20,
+McIntosh,ND,Childcare (K-12),9/3/20,
+Renville,ND,Non-Essential Businesses,9/3/20,
+Burleigh,ND,Phase 3,9/3/20,
+McLean,ND,Food and Drink,9/3/20,
+Griggs,ND,Outdoor and Recreation,9/3/20,
+Williams,ND,Food and Drink,9/3/20,
+Foster,ND,Food and Drink,9/3/20,
+Rolette,ND,Non-Essential Businesses,9/3/20,
+Grand Forks,ND,Non-Essential Businesses,9/3/20,
+Pembina,ND,Phase 5,9/3/20,
+Foster,ND,Outdoor and Recreation,9/3/20,
+LaMoure,ND,Outdoor and Recreation,9/3/20,
+Morton,ND,Food and Drink,9/3/20,
+Pembina,ND,Non-Essential Businesses,9/3/20,
+Rolette,ND,Phase 5,9/3/20,
+Walsh,ND,Non-Essential Businesses,9/3/20,
+Pembina,ND,Outdoor and Recreation,9/3/20,
+Williams,ND,Non-Essential Businesses,9/3/20,
+Grand Forks,ND,Outdoor and Recreation,9/3/20,
+Morton,ND,Non-Essential Businesses,9/3/20,
+Benson,ND,Outdoor and Recreation,9/3/20,
+Burleigh,ND,Childcare (K-12),9/3/20,
+Walsh,ND,Food and Drink,9/3/20,
+Divide,ND,Childcare (K-12),9/3/20,
+Benson,ND,Food and Drink,9/3/20,
+Grand Forks,ND,Food and Drink,9/3/20,
+Cavalier,ND,Food and Drink,9/3/20,
+Traill,ND,Non-Essential Businesses,9/3/20,
+Billings,ND,Phase 5,9/3/20,
+Traill,ND,Phase 5,9/3/20,
+Renville,ND,Outdoor and Recreation,9/3/20,
+Morton,ND,Outdoor and Recreation,9/3/20,
+Carbon,UT,Phase 4,9/11/20,
+Carbon,UT,Outdoor and Recreation,9/11/20,
+Carbon,UT,Non-Essential Businesses,9/11/20,
+Carbon,UT,Food and Drink,9/11/20,
+Carbon,UT,Entertainment,9/11/20,
+Lancaster,NE,Childcare (K-12),9/14/20,12/16/20
+Lancaster,NE,Houses of Worship,9/14/20,10/31/20
+Broward,FL,Phase 2,9/14/20,
+Miami-Dade,FL,Phase 2,9/14/20,
+Lancaster,NE,Mask Mandate,9/14/20,12/16/20
+Lancaster,NE,Phase 3,9/14/20,11/30/20
+Honolulu,HI,Mask Mandate,9/24/20,10/31/20
+Honolulu,HI,Phase 1,9/24/20,10/31/20
+La Plata,CO,Outdoor and Recreation,9/25/20,
+Archuleta,CO,Mask Mandate,9/25/20,
+La Plata,CO,Non-Essential Businesses,9/25/20,
+Archuleta,CO,Phase 1,9/25/20,
+Archuleta,CO,Houses of Worship,9/25/20,
+La Plata,CO,Food and Drink,9/25/20,
+San Francisco,CA,Outdoor and Recreation,9/30/20,
+Chaffee,CO,Entertainment,10/6/20,
+Ventura,CA,Outdoor and Recreation,10/6/20,
+Ventura,CA,Non-Essential Businesses,10/6/20,
+Jackson,MO,Day Care,10/9/20,
+Jackson,MO,Mask Mandate,10/9/20,
+Custer,ID,Food and Drink,10/27/20,
+Lemhi,ID,Childcare (K-12),10/27/20,
+Washington,ID,Mask Mandate,10/27/20,
+Power,ID,Houses of Worship,10/27/20,
+Fremont,ID,Mask Mandate,10/27/20,
+Franklin,ID,Houses of Worship,10/27/20,
+Caribou,ID,Houses of Worship,10/27/20,
+Bingham,ID,Food and Drink,10/27/20,
+Caribou,ID,Childcare (K-12),10/27/20,
+Butte,ID,Mask Mandate,10/27/20,
+Butte,ID,Phase 3,10/27/20,
+Boise,ID,Childcare (K-12),10/27/20,
+Lemhi,ID,Mask Mandate,10/27/20,
+Power,ID,Phase 3,10/27/20,
+Clark,ID,Food and Drink,10/27/20,
+Boise,ID,Mask Mandate,10/27/20,
+Bonneville,ID,Food and Drink,10/27/20,
+Franklin,ID,Phase 3,10/27/20,
+Jefferson,ID,Food and Drink,10/27/20,
+Teton,ID,Childcare (K-12),10/27/20,
+Caribou,ID,Phase 3,10/27/20,
+Franklin,ID,Childcare (K-12),10/27/20,
+Fremont,ID,Childcare (K-12),10/27/20,
+Franklin,ID,Mask Mandate,10/27/20,
+Twin Falls,ID,Food and Drink,10/27/20,
+Caribou,ID,Mask Mandate,10/27/20,
+Valley,ID,Food and Drink,10/27/20,
+Fremont,ID,Phase 3,10/27/20,
+Power,ID,Mask Mandate,10/27/20,
+Elmore,ID,Childcare (K-12),10/27/20,
+Teton,ID,Mask Mandate,10/27/20,
+Washington,ID,Phase 3,10/27/20,
+Boise,ID,Phase 3,10/27/20,
+Oneida,ID,Food and Drink,10/27/20,
+Power,ID,Childcare (K-12),10/27/20,
+Butte,ID,Childcare (K-12),10/27/20,
+Teton,ID,Phase 3,10/27/20,
+Lemhi,ID,Phase 3,10/27/20,
+Madison,ID,Food and Drink,10/27/20,
+Butte,ID,Houses of Worship,10/27/20,
+Elmore,ID,Mask Mandate,10/27/20,
+Elmore,ID,Phase 3,10/27/20,
+Otero,CO,Non-Essential Businesses,10/30/20,
+Otero,CO,Outdoor and Recreation,10/30/20,
+Otero,CO,Food and Drink,10/30/20,
+Forrest,MS,Mask Mandate,11/12/20,12/12/20
+Benewah,ID,Food and Drink,11/14/20,
+Kootenai,ID,Childcare (K-12),11/14/20,
+Kootenai,ID,Mask Mandate,11/14/20,
+Shoshone,ID,Mask Mandate,11/14/20,
+Shoshone,ID,Childcare (K-12),11/14/20,
+Idaho,ID,Mask Mandate,11/14/20,
+Boundary,ID,Food and Drink,11/14/20,
+Nez Perce,ID,Phase 2,11/14/20,
+Kootenai,ID,Phase 2,11/14/20,
+Nez Perce,ID,Mask Mandate,11/14/20,
+Shoshone,ID,Phase 2,11/14/20,
+Bonner,ID,Food and Drink,11/14/20,
+Latah,ID,Food and Drink,11/14/20,
+Idaho,ID,Phase 2,11/14/20,
+Clearwater,ID,Food and Drink,11/14/20,
+Lewis,ID,Food and Drink,11/14/20,
+Nez Perce,ID,Childcare (K-12),11/14/20,
+Stanislaus,CA,Outdoor and Recreation,11/16/20,
+Stanislaus,CA,Food and Drink,11/16/20,
+San Diego,CA,Houses of Worship,11/16/20,
+Glenn,CA,Houses of Worship,11/16/20,
+Ventura,CA,Food and Drink,11/16/20,
+Stanislaus,CA,Non-Essential Businesses,11/16/20,
+Stanislaus,CA,Shelter in Place,11/16/20,
+Fresno,CA,Houses of Worship,11/16/20,
+Kings,CA,Outdoor and Recreation,11/17/20,
+Kings,CA,Non-Essential Businesses,11/17/20,
+Kings,CA,Shelter in Place,11/17/20,
+Kings,CA,Food and Drink,11/17/20,
+El Dorado,CA,Houses of Worship,11/17/20,
+Garfield,UT,Phase 1,11/23/20,
+Garfield,UT,Mask Mandate,11/23/20,
+Garfield,UT,Childcare (K-12),11/23/20,
+Weber,UT,Entertainment,11/24/20,
+Grand,UT,Childcare (K-12),11/24/20,
+Salt Lake,UT,Mask Mandate,11/24/20,
+Sevier,UT,Entertainment,11/24/20,
+Juab,UT,Food and Drink,11/24/20,
+Utah,UT,Phase 1,11/24/20,
+Washington,UT,Food and Drink,11/24/20,
+Box Elder,UT,Non-Essential Businesses,11/24/20,
+Utah,UT,Childcare (K-12),11/24/20,
+Duchesne,UT,Outdoor and Recreation,11/24/20,
+Morgan,UT,Childcare (K-12),11/24/20,
+Davis,UT,Phase 1,11/24/20,
+Beaver,UT,Non-Essential Businesses,11/24/20,
+Summit,UT,Mask Mandate,11/24/20,
+Grand,UT,Phase 1,11/24/20,
+Sanpete,UT,Food and Drink,11/24/20,
+Duchesne,UT,Food and Drink,11/24/20,
+Tooele,UT,Phase 1,11/24/20,
+Wasatch,UT,Outdoor and Recreation,11/24/20,
+Summit,UT,Childcare (K-12),11/24/20,
+Kane,UT,Outdoor and Recreation,11/24/20,
+Sanpete,UT,Non-Essential Businesses,11/24/20,
+Duchesne,UT,Non-Essential Businesses,11/24/20,
+Uintah,UT,Food and Drink,11/24/20,
+Wayne,UT,Childcare (K-12),11/24/20,
+Box Elder,UT,Outdoor and Recreation,11/24/20,
+Tooele,UT,Mask Mandate,11/24/20,
+Uintah,UT,Entertainment,11/24/20,
+Juab,UT,Outdoor and Recreation,11/24/20,
+Juab,UT,Non-Essential Businesses,11/24/20,
+Beaver,UT,Entertainment,11/24/20,
+Morgan,UT,Mask Mandate,11/24/20,
+Tooele,UT,Childcare (K-12),11/24/20,
+Weber,UT,Non-Essential Businesses,11/24/20,
+Sanpete,UT,Entertainment,11/24/20,
+Sevier,UT,Outdoor and Recreation,11/24/20,
+Uintah,UT,Outdoor and Recreation,11/24/20,
+Box Elder,UT,Entertainment,11/24/20,
+Salt Lake,UT,Childcare (K-12),11/24/20,
+Emery,UT,Phase 1,11/24/20,
+Cache,UT,Phase 1,11/24/20,
+Uintah,UT,Non-Essential Businesses,11/24/20,
+Emery,UT,Mask Mandate,11/24/20,
+Iron,UT,Food and Drink,11/24/20,
+Wayne,UT,Phase 1,11/24/20,
+Millard,UT,Mask Mandate,11/24/20,
+San Juan,UT,Non-Essential Businesses,11/24/20,
+Morgan,UT,Phase 1,11/24/20,
+Kane,UT,Entertainment,11/24/20,
+Weber,UT,Outdoor and Recreation,11/24/20,
+Kane,UT,Food and Drink,11/24/20,
+Washington,UT,Entertainment,11/24/20,
+Sevier,UT,Non-Essential Businesses,11/24/20,
+Millard,UT,Phase 1,11/24/20,
+Summit,UT,Phase 1,11/24/20,
+Emery,UT,Childcare (K-12),11/24/20,
+Iron,UT,Non-Essential Businesses,11/24/20,
+Davis,UT,Childcare (K-12),11/24/20,
+Beaver,UT,Outdoor and Recreation,11/24/20,
+Sanpete,UT,Outdoor and Recreation,11/24/20,
+Weber,UT,Food and Drink,11/24/20,
+Kane,UT,Non-Essential Businesses,11/24/20,
+Utah,UT,Mask Mandate,11/24/20,
+Wasatch,UT,Entertainment,11/24/20,
+Duchesne,UT,Entertainment,11/24/20,
+Iron,UT,Outdoor and Recreation,11/24/20,
+Wayne,UT,Mask Mandate,11/24/20,
+Sevier,UT,Food and Drink,11/24/20,
+San Juan,UT,Outdoor and Recreation,11/24/20,
+Davis,UT,Mask Mandate,11/24/20,
+Salt Lake,UT,Phase 1,11/24/20,
+Washington,UT,Non-Essential Businesses,11/24/20,
+Grand,UT,Mask Mandate,11/24/20,
+Washington,UT,Outdoor and Recreation,11/24/20,
+Wasatch,UT,Non-Essential Businesses,11/24/20,
+Cache,UT,Childcare (K-12),11/24/20,
+Millard,UT,Childcare (K-12),11/24/20,
+Iron,UT,Entertainment,11/24/20,
+Box Elder,UT,Food and Drink,11/24/20,
+Wasatch,UT,Food and Drink,11/24/20,
+San Juan,UT,Food and Drink,11/24/20,
+Beaver,UT,Food and Drink,11/24/20,
+San Juan,UT,Entertainment,11/24/20,
+Juab,UT,Entertainment,11/24/20,
+Lincoln,NE,Food and Drink,11/25/20,12/16/20
+Lincoln,NE,Non-Essential Businesses,11/25/20,12/16/20
+Lancaster,NE,Phase 1,11/25/20,12/16/20
+Contra Costa,CA,Shelter in Place,3/17/20,5/31/20
+Santa Cruz,CA,Shelter in Place,3/17/20,5/3/20
+Yuba,CA,Shelter in Place,3/18/20,5/3/20
+Sonoma,CA,Shelter in Place,3/18/20,5/3/20
+Mendocino,CA,Shelter in Place,3/18/20,5/10/20
+Douglas,NE,Shelter in Place,3/18/20,4/30/20
+Sutter,CA,Shelter in Place,3/18/20,5/3/20
+Sacramento,CA,Shelter in Place,3/19/20,5/1/20
+Yolo,CA,Shelter in Place,3/19/20,5/1/20
+Lake,CA,Shelter in Place,3/19/20,5/17/20
+San Luis Obispo,CA,Shelter in Place,3/19/20,
+Napa,CA,Shelter in Place,3/20/20,
+Cook,IL,Phase 1,3/21/20,5/30/20
+Cook,IL,Childcare (K-12),3/21/20,5/30/20
+Dougherty,GA,Shelter in Place,3/22/20,4/7/20
+Yakima,WA,Shelter in Place,3/22/20,
+Anchorage Municipality,AK,Shelter in Place,3/22/20,3/31/20
+Montgomery,PA,Shelter in Place,3/23/20,4/30/20
+McLennan,TX,Shelter in Place,3/23/20,4/30/20
+Davidson,TN,Shelter in Place,3/23/20,
+Allegheny,PA,Shelter in Place,3/23/20,4/30/20
+Bucks,PA,Shelter in Place,3/23/20,4/30/20
+Stephens,TX,Shelter in Place,3/23/20,
+Honolulu,HI,Shelter in Place,3/23/20,4/30/20
+Monroe,PA,Shelter in Place,3/23/20,4/30/20
+Castro,TX,Shelter in Place,3/24/20,4/30/20
+Galveston,TX,Shelter in Place,3/24/20,4/30/20
+Collin,TX,Shelter in Place,3/24/20,3/31/20
+Lowndes,GA,Shelter in Place,3/24/20,4/6/20
+Rockwall,TX,Shelter in Place,3/24/20,4/30/20
+Harris,TX,Shelter in Place,3/24/20,4/30/20
+Hunt,TX,Shelter in Place,3/24/20,
+Williamson,TX,Shelter in Place,3/24/20,4/30/20
+Alachua,FL,Shelter in Place,3/24/20,5/3/20
+Chambers,TX,Shelter in Place,3/24/20,4/30/20
+Jefferson,MO,Shelter in Place,3/24/20,4/23/20
+El Paso,TX,Shelter in Place,3/24/20,11/13/20
+Clay,MO,Shelter in Place,3/24/20,4/23/20
+Wyandotte,KS,Shelter in Place,3/24/20,4/23/20
+Travis,TX,Shelter in Place,3/24/20,5/8/20
+Jackson,MO,Shelter in Place,3/24/20,4/23/20
+St. Charles,MO,Shelter in Place,3/24/20,
+Starr,TX,Shelter in Place,3/25/20,12/7/20
+Maui,HI,Shelter in Place,3/25/20,4/30/20
+Milam,TX,Shelter in Place,3/25/20,5/4/20
+San Jacinto,TX,Shelter in Place,3/25/20,4/19/20
+Northampton,PA,Shelter in Place,3/25/20,4/30/20
+Pitt,NC,Shelter in Place,3/25/20,
+Leon,FL,Shelter in Place,3/25/20,4/19/20
+Cobb,GA,Shelter in Place,3/25/20,4/15/20
+Lancaster,NE,Shelter in Place,3/25/20,5/6/20
+Saunders,NE,Shelter in Place,3/25/20,5/6/20
+Denton,TX,Shelter in Place,3/25/20,4/30/20
+Randolph,MO,Shelter in Place,3/25/20,4/24/20
+Hood,TX,Shelter in Place,3/25/20,4/7/20
+Ellis,TX,Shelter in Place,3/25/20,4/30/20
+Boone,MO,Shelter in Place,3/25/20,4/24/20
+Culberson,TX,Shelter in Place,3/25/20,
+Kaufman,TX,Shelter in Place,3/25/20,4/8/20
+Greene,MO,Shelter in Place,3/26/20,4/25/20
+Adams,CO,Shelter in Place,3/26/20,3/26/20
+Mecklenburg,NC,Shelter in Place,3/26/20,4/29/20
+Douglas,GA,Shelter in Place,3/26/20,4/10/20
+Perry,MO,Shelter in Place,3/26/20,4/24/20
+Broomfield,CO,Shelter in Place,3/26/20,3/26/20
+Doniphan,KS,Shelter in Place,3/26/20,
+Larimer,CO,Shelter in Place,3/26/20,4/17/20
+Gregg,TX,Shelter in Place,3/26/20,4/9/20
+Montague,TX,Shelter in Place,3/26/20,4/2/20
+Hays,TX,Shelter in Place,3/26/20,4/10/20
+Osceola,FL,Shelter in Place,3/26/20,4/9/20
+Pinellas,FL,Shelter in Place,3/26/20,5/1/20
+Cherokee,GA,Shelter in Place,3/26/20,4/9/20
+Christian,MO,Shelter in Place,3/26/20,4/25/20
+Brazoria,TX,Shelter in Place,3/26/20,4/30/20
+Cabarrus,NC,Shelter in Place,3/26/20,4/16/20
+Orange,FL,Shelter in Place,3/26/20,4/9/20
+Lyon,KS,Shelter in Place,3/26/20,4/25/20
+Clinton,MO,Shelter in Place,3/26/20,
+Gadsden,FL,Shelter in Place,3/27/20,
+Summit,UT,Shelter in Place,3/27/20,5/1/20
+Brown,TX,Shelter in Place,3/27/20,4/3/20
+Luzerne,PA,Shelter in Place,3/27/20,4/30/20
+Williamsburg,SC,Shelter in Place,3/27/20,4/10/20
+Westmoreland,PA,Shelter in Place,3/27/20,4/30/20
+Montgomery,TX,Shelter in Place,3/27/20,4/17/20
+Bartow,GA,Shelter in Place,3/27/20,4/7/20
+Polk,TX,Shelter in Place,3/27/20,4/30/20
+McPherson,KS,Shelter in Place,3/27/20,4/25/20
+Jim Wells,TX,Shelter in Place,3/27/20,4/27/20
+Broward,FL,Shelter in Place,3/27/20,3/27/20
+Scurry,TX,Shelter in Place,3/27/20,4/28/20
+Lancaster,PA,Shelter in Place,3/27/20,4/30/20
+Pike,PA,Shelter in Place,3/27/20,4/30/20
+Forsyth,NC,Shelter in Place,3/27/20,4/16/20
+Duval,TX,Shelter in Place,3/27/20,6/1/20
+Calaveras,CA,Shelter in Place,3/27/20,
+Lackawanna,PA,Shelter in Place,3/27/20,4/30/20
+Hillsborough,FL,Shelter in Place,3/27/20,4/30/20
+Jefferson,TX,Shelter in Place,3/27/20,4/10/20
+Johnson,TX,Shelter in Place,3/27/20,
+Bowie,TX,Shelter in Place,3/27/20,4/13/20
+Osage,KS,Shelter in Place,3/28/20,
+Aransas,TX,Shelter in Place,3/28/20,4/30/20
+Hall,NE,Shelter in Place,3/28/20,5/6/20
+Polk,NE,Shelter in Place,3/28/20,5/6/20
+Henderson,NC,Shelter in Place,3/28/20,
+Geary,KS,Shelter in Place,3/28/20,
+Chase,KS,Shelter in Place,3/28/20,4/27/20
+York,NE,Shelter in Place,3/28/20,5/6/20
+DeKalb,GA,Shelter in Place,3/28/20,
+Beaver,PA,Shelter in Place,3/28/20,4/30/20
+Merrick,NE,Shelter in Place,3/28/20,5/6/20
+Webb,TX,Shelter in Place,3/28/20,4/30/20
+Burt,NE,Shelter in Place,3/29/20,5/6/20
+Riley,KS,Shelter in Place,3/29/20,
+Stanton,NE,Shelter in Place,3/29/20,5/6/20
+Frio,TX,Shelter in Place,3/30/20,4/6/20
+Wichita,TX,Shelter in Place,3/30/20,4/27/20
+Saline,KS,Shelter in Place,3/30/20,4/29/20
+Angelina,TX,Shelter in Place,3/30/20,
+San Augustine,TX,Shelter in Place,3/30/20,4/30/20
+Leon,TX,Shelter in Place,3/30/20,4/19/20
+Miami-Dade,FL,Shelter in Place,3/30/20,
+Kimball,NE,Shelter in Place,3/30/20,5/11/20
+Cumberland,PA,Shelter in Place,3/30/20,4/30/20
+Monroe,FL,Shelter in Place,3/30/20,
+Carbon,PA,Shelter in Place,3/30/20,4/30/20
+Shelby,TX,Shelter in Place,3/30/20,4/30/20
+Morrill,NE,Shelter in Place,3/30/20,5/11/20
+Salt Lake,UT,Shelter in Place,3/30/20,4/13/20
+Sioux,NE,Shelter in Place,3/30/20,5/11/20
+Garden,NE,Shelter in Place,3/30/20,5/11/20
+Banner,NE,Shelter in Place,3/30/20,5/11/20
+Madison,TX,Shelter in Place,3/30/20,4/12/20
+Llano,TX,Shelter in Place,3/30/20,4/20/20
+Chariton,MO,Shelter in Place,3/30/20,4/24/20
+Dauphin,PA,Shelter in Place,3/30/20,4/30/20
+Lafayette,MO,Shelter in Place,3/31/20,4/30/20
+Buffalo,NE,Shelter in Place,3/31/20,5/11/20
+Crawford,PA,Shelter in Place,3/31/20,4/30/20
+Clay,NE,Shelter in Place,3/31/20,5/11/20
+Trinity,TX,Shelter in Place,3/31/20,4/30/20
+Lauderdale,MS,Shelter in Place,3/31/20,4/20/20
+Lawrence,PA,Shelter in Place,3/31/20,4/30/20
+Somerset,PA,Shelter in Place,3/31/20,4/30/20
+Kearney,NE,Shelter in Place,3/31/20,5/11/20
+Kenedy,TX,Shelter in Place,3/31/20,4/30/20
+Dawson,NE,Shelter in Place,3/31/20,5/11/20
+Gosper,NE,Shelter in Place,3/31/20,5/11/20
+Presidio,TX,Shelter in Place,3/31/20,4/7/20
+Phelps,NE,Shelter in Place,3/31/20,5/11/20
+Harrison,TX,Shelter in Place,3/31/20,
+Franklin,PA,Shelter in Place,3/31/20,4/30/20
+Deaf Smith,TX,Shelter in Place,3/31/20,5/7/20
+Cameron,PA,Shelter in Place,3/31/20,4/30/20
+Webster,NE,Shelter in Place,3/31/20,5/11/20
+Sumter,FL,Shelter in Place,3/31/20,4/30/20
+Knox,NE,Shelter in Place,4/1/20,5/11/20
+Logan,NE,Shelter in Place,4/1/20,5/11/20
+Davis,UT,Shelter in Place,4/1/20,5/1/20
+Pierce,NE,Shelter in Place,4/1/20,5/11/20
+Crawford,MO,Shelter in Place,4/1/20,4/30/20
+Johnson,MO,Shelter in Place,4/1/20,4/30/20
+Brown,NE,Shelter in Place,4/1/20,5/11/20
+Keya Paha,NE,Shelter in Place,4/1/20,5/11/20
+Cherry,NE,Shelter in Place,4/1/20,5/11/20
+Montgomery,TN,Shelter in Place,4/1/20,4/8/20
+Fulton,GA,Manufacturing,4/1/20,4/30/20
+Panola,TX,Shelter in Place,4/1/20,4/14/20
+Fulton,GA,Personal Care,4/1/20,4/30/20
+Fulton,GA,Childcare (K-12),4/1/20,4/30/20
+Hooker,NE,Shelter in Place,4/1/20,5/11/20
+Dade,MO,Shelter in Place,4/2/20,
+Pulaski,MO,Shelter in Place,4/2/20,4/30/20
+Cass,TX,Shelter in Place,4/2/20,4/30/20
+Matagorda,TX,Shelter in Place,4/2/20,
+Gray,TX,Shelter in Place,4/2/20,4/8/20
+Nolan,TX,Shelter in Place,4/2/20,4/13/20
+Victoria,TX,Shelter in Place,4/2/20,4/30/20
+Live Oak,TX,Shelter in Place,4/2/20,4/30/20
+Garfield,NE,Shelter in Place,4/3/20,5/11/20
+Boone,NE,Shelter in Place,4/3/20,5/11/20
+Nance,NE,Shelter in Place,4/3/20,5/11/20
+Jefferson,NE,Shelter in Place,4/3/20,5/11/20
+Saline,NE,Shelter in Place,4/3/20,5/11/20
+Custer,NE,Shelter in Place,4/3/20,5/11/20
+Keith,NE,Shelter in Place,4/3/20,5/11/20
+Loup,NE,Shelter in Place,4/3/20,5/11/20
+Vernon,MO,Shelter in Place,4/3/20,5/1/20
+Nemaha,NE,Shelter in Place,4/3/20,5/11/20
+Cedar,NE,Shelter in Place,4/3/20,5/11/20
+Dundy,NE,Shelter in Place,4/3/20,5/11/20
+Linn,MO,Shelter in Place,4/3/20,4/24/20
+Fillmore,NE,Shelter in Place,4/3/20,5/11/20
+Thurston,NE,Shelter in Place,4/3/20,5/11/20
+Osage,MO,Shelter in Place,4/3/20,5/1/20
+Pawnee,NE,Shelter in Place,4/3/20,5/11/20
+Stoddard,MO,Shelter in Place,4/3/20,4/24/20
+Guadalupe,TX,Shelter in Place,4/3/20,4/30/20
+Riverside,CA,Shelter in Place,4/4/20,4/30/20
+Pike,MO,Shelter in Place,4/5/20,4/30/20
+Berkeley,WV,Shelter in Place,4/5/20,
+Iron,MO,Shelter in Place,4/6/20,5/1/20
+Clark,MO,Shelter in Place,4/6/20,4/30/20
+Swisher,TX,Shelter in Place,4/6/20,4/30/20
+Jones,TX,Shelter in Place,4/6/20,
+Blanco,TX,Shelter in Place,4/6/20,
+La Salle,TX,Shelter in Place,4/6/20,4/30/20
+Briscoe,TX,Shelter in Place,4/7/20,
+Coryell,TX,Shelter in Place,4/8/20,5/4/20
+Walker,TX,Shelter in Place,4/9/20,
+El Dorado,CA,Shelter in Place,11/17/20,4/30/20
+Marion,IN,Phase 2,5/11/20,6/1/20
+Jackson,MO,Entertainment,5/11/20,5/31/20
+Somerset,ME,Non-Essential Businesses,5/11/20,
+Jackson,MO,Outdoor and Recreation,5/11/20,5/31/20
+Jackson,MO,Food and Drink,5/11/20,5/31/20
+Palm Beach,FL,Personal Care,5/11/20,
+Jackson,MO,Non-Essential Businesses,5/11/20,5/31/20
+Sagadahoc,ME,Non-Essential Businesses,5/11/20,
+Kennebec,ME,Non-Essential Businesses,5/11/20,
+Waldo,ME,Non-Essential Businesses,5/11/20,
+Washington,ME,Non-Essential Businesses,5/11/20,
+Piscataquis,ME,Non-Essential Businesses,5/11/20,
+Marion,IN,Phase 3,6/1/20,5/13/20
+Cass,IN,Phase 3,6/1/20,5/13/20
+Lane,OR,New Phase,5/15/20,
+Lane,OR,Personal Care,5/15/20,
+Alameda,CA,Manufacturing,5/18/20,
+Kennebec,ME,Food and Drink,5/18/20,
+Cass,IN,Phase 2,5/18/20,6/1/20
+Alameda,CA,Phase 1,5/18/20,
+Waldo,ME,Outdoor and Recreation,5/18/20,
+Broward,FL,Non-Essential Businesses,5/18/20,
+Sagadahoc,ME,Food and Drink,5/18/20,
+Piscataquis,ME,Food and Drink,5/18/20,
+Alameda,CA,Childcare (K-12),5/18/20,
+Broward,FL,Food and Drink,5/18/20,
+Alameda,CA,Personal Care,5/18/20,
+Kennebec,ME,Outdoor and Recreation,5/18/20,
+Somerset,ME,Outdoor and Recreation,5/18/20,
+Piscataquis,ME,Outdoor and Recreation,5/18/20,
+Waldo,ME,Food and Drink,5/18/20,
+Washington,ME,Outdoor and Recreation,5/18/20,
+Alameda,CA,Houses of Worship,5/18/20,
+Washington,ME,Food and Drink,5/18/20,
+Sagadahoc,ME,Outdoor and Recreation,5/18/20,
+Somerset,ME,Food and Drink,5/18/20,
+Alameda,CA,New Phase,5/18/20,
+Bexar,TX,Manufacturing,5/19/20,6/4/20
+Bexar,TX,Childcare (K-12),5/19/20,6/4/20
+Bexar,TX,Personal Care,5/19/20,6/4/20
+Clackamas,OR,Personal Care,5/23/20,
+Clackamas,OR,New Phase,5/23/20,
+Dane,WI,Houses of Worship,5/26/20,
+Dane,WI,Childcare (K-12),5/26/20,
+Suffolk,MA,Non-Essential Businesses,6/1/20,
+Cumberland,ME,Food and Drink,6/1/20,
+Androscoggin,ME,Food and Drink,6/1/20,
+Cumberland,ME,Non-Essential Businesses,6/1/20,
+Androscoggin,ME,Non-Essential Businesses,6/1/20,
+Cook,IL,Phase 3,6/3/20,
+Benton,OR,New Phase,6/5/20,
+Douglas,OR,New Phase,6/5/20,
+Benton,OR,Houses of Worship,6/5/20,
+Grant,OR,New Phase,6/5/20,
+Baker,OR,Food and Drink,6/6/20,
+Baker,OR,Outdoor and Recreation,6/6/20,
+Denver,CO,Outdoor and Recreation,6/6/20,
+Baker,OR,Entertainment,6/6/20,
+Bronx,NY,Non-Essential Businesses,6/8/20,
+Queens,NY,Wholesale Trade,6/8/20,
+Richmond,NY,construction,6/8/20,
+Kings,NY,Non-Essential Businesses,6/8/20,
+Alameda,CA,Day Care,6/8/20,
+New York,NY,Agriculture,6/8/20,
+New York,NY,Non-Essential Businesses,6/8/20,
+Richmond,NY,Wholesale Trade,6/8/20,
+Bronx,NY,Wholesale Trade,6/8/20,
+Alameda,CA,Phase 2,6/8/20,
+Kings,NY,Wholesale Trade,6/8/20,
+New York,NY,Wholesale Trade,6/8/20,
+Queens,NY,Non-Essential Businesses,6/8/20,
+Richmond,NY,Non-Essential Businesses,6/8/20,
+San Juan,UT,Phase 2,6/12/20,
+Juniata,PA,Phase 2,6/12/20,
+Mifflin,PA,Phase 2,6/12/20,
+Wyoming,PA,Phase 2,6/12/20,
+York,PA,Phase 2,6/12/20,
+Adams,PA,Phase 2,6/12/20,
+Wayne,PA,Phase 2,6/12/20,
+Northumberland,PA,Phase 2,6/12/20,
+Adams,ID,Houses of Worship,6/13/20,
+Bear Lake,ID,Houses of Worship,6/13/20,
+Bear Lake,ID,Mask Mandate,6/13/20,
+Adams,ID,Mask Mandate,6/13/20,
+Bear Lake,ID,Day Care,6/13/20,
+Adams,ID,Day Care,6/13/20,
+Carroll,NH,Food and Drink,6/15/20,
+Dane,WI,Phase 2,6/15/20,
+Coos,NH,Food and Drink,6/15/20,
+Strafford,NH,Food and Drink,6/15/20,
+Cattaraugus,NY,Food and Drink,6/16/20,6/30/20
+Allegany,NY,Non-Essential Businesses,6/16/20,6/30/20
+Allegany,NY,Food and Drink,6/16/20,6/30/20
+Cattaraugus,NY,Non-Essential Businesses,6/16/20,6/30/20
+Cumberland,ME,Outdoor and Recreation,6/17/20,
+Denver,CO,Entertainment,6/17/20,
+Androscoggin,ME,Outdoor and Recreation,6/17/20,
+Denver,CO,Food and Drink,6/17/20,
+Denver,CO,Non-Essential Businesses,6/17/20,
+Emery,UT,Phase 4,6/19/20,
+Huntingdon,PA,Phase 2,6/19/20,
+Wayne,UT,Phase 4,6/19/20,
+Schuylkill,PA,Phase 2,6/19/20,
+Millard,UT,Phase 4,6/19/20,
+Daggett,UT,Phase 4,6/19/20,
+Garfield,UT,Phase 4,6/19/20,
+Piute,UT,Phase 4,6/19/20,
+Ada,ID,Childcare (K-12),6/24/20,
+Ada,ID,Phase 3,6/24/20,
+Ada,ID,Mask Mandate,6/24/20,
+Philadelphia,PA,Phase 2,6/26/20,
+LaSalle,IL,Manufacturing,6/26/20,
+LaSalle,IL,Childcare (K-12),6/26/20,
+Erie,PA,Phase 2,6/26/20,
+Chester,PA,Phase 2,6/26/20,
+Lehigh,PA,Phase 2,6/26/20,
+Delaware,PA,Phase 2,6/26/20,
+Berks,PA,Phase 2,6/26/20,
+Susquehanna,PA,Phase 2,6/26/20,
+Monroe,FL,Outdoor and Recreation,7/2/20,7/7/20
+Armstrong,TX,Mask Mandate,7/3/20,
+Concho,TX,Mask Mandate,7/3/20,
+Hardeman,TX,Mask Mandate,7/3/20,
+Wheeler,TX,Mask Mandate,7/3/20,
+Baylor,TX,Mask Mandate,7/3/20,
+Lipscomb,TX,Mask Mandate,7/3/20,
+Roberts,TX,Mask Mandate,7/3/20,
+Sherman,TX,Mask Mandate,7/3/20,
+Hutchinson,TX,Mask Mandate,7/3/20,
+Goliad,TX,Mask Mandate,7/3/20,
+Lebanon,PA,Phase 2,7/3/20,
+Franklin,TX,Mask Mandate,7/3/20,
+Pecos,TX,Mask Mandate,7/3/20,
+Washington,UT,Phase 3,7/3/20,
+Miami-Dade,FL,Outdoor and Recreation,7/3/20,7/6/20
+Morris,TX,Mask Mandate,7/3/20,
+Broward,FL,Outdoor and Recreation,7/3/20,7/5/20
+Borden,TX,Mask Mandate,7/3/20,
+Jack,TX,Mask Mandate,7/3/20,
+Motley,TX,Mask Mandate,7/3/20,
+Oldham,TX,Mask Mandate,7/3/20,
+Miami-Dade,FL,Entertainment,7/3/20,7/6/20
+McCulloch,TX,Mask Mandate,7/3/20,
+Clay,TX,Mask Mandate,7/3/20,
+Carson,TX,Mask Mandate,7/3/20,
+Collingsworth,TX,Mask Mandate,7/3/20,
+Sutton,TX,Mask Mandate,7/3/20,
+Sussex,DE,Food and Drink,7/3/20,
+Delta,TX,Mask Mandate,7/3/20,
+Shackelford,TX,Mask Mandate,7/3/20,
+Childress,TX,Mask Mandate,7/3/20,
+Bailey,TX,Mask Mandate,7/3/20,
+Hancock,ME,Mask Mandate,7/8/20,
+York,ME,Mask Mandate,7/8/20,
+Butler,OH,Mask Mandate,7/8/20,
+Huron,OH,Mask Mandate,7/8/20,
+Knox,ME,Mask Mandate,7/8/20,
+Lincoln,ME,Mask Mandate,7/8/20,
+Miami-Dade,FL,Food and Drink,7/9/20,
+Lorain,OH,Mask Mandate,7/10/20,
+Harrison,MS,Outdoor and Recreation,7/13/20,7/20/20
+Jefferson,MS,Food and Drink,7/13/20,7/20/20
+Wayne,MS,Non-Essential Businesses,7/13/20,7/20/20
+Harrison,MS,Non-Essential Businesses,7/13/20,7/20/20
+Rankin,MS,Childcare (K-12),7/13/20,7/20/20
+Grenada,MS,Entertainment,7/13/20,7/20/20
+Grenada,MS,Non-Essential Businesses,7/13/20,7/20/20
+Dane,WI,Mask Mandate,7/13/20,
+Grenada,MS,Outdoor and Recreation,7/13/20,7/20/20
+Wayne,MS,Entertainment,7/13/20,7/20/20
+Washington,MS,Childcare (K-12),7/13/20,7/20/20
+Harrison,MS,Entertainment,7/13/20,7/20/20
+Harrison,MS,Food and Drink,7/13/20,7/20/20
+Wayne,MS,Food and Drink,7/13/20,7/20/20
+Washington,MS,Houses of Worship,7/13/20,7/20/20
+Claiborne,MS,Entertainment,7/13/20,7/20/20
+Jackson,MS,Non-Essential Businesses,7/13/20,7/20/20
+Washington,MS,Manufacturing,7/13/20,7/20/20
+DeSoto,MS,Day Care,7/13/20,7/20/20
+Rankin,MS,Manufacturing,7/13/20,7/20/20
+Wayne,MS,Outdoor and Recreation,7/13/20,7/20/20
+Madison,MS,Day Care,7/13/20,7/20/20
+Madison,MS,Houses of Worship,7/13/20,7/20/20
+Jackson,MS,Entertainment,7/13/20,7/20/20
+Rankin,MS,Houses of Worship,7/13/20,7/20/20
+Madison,MS,Manufacturing,7/13/20,7/20/20
+Grenada,MS,Food and Drink,7/13/20,7/20/20
+Claiborne,MS,Outdoor and Recreation,7/13/20,7/20/20
+Hinds,MS,Food and Drink,7/13/20,7/20/20
+Sunflower,MS,Day Care,7/13/20,7/20/20
+Hinds,MS,Non-Essential Businesses,7/13/20,7/20/20
+DeSoto,MS,Manufacturing,7/13/20,7/20/20
+Hinds,MS,Entertainment,7/13/20,7/20/20
+Sunflower,MS,Manufacturing,7/13/20,7/20/20
+Jackson,MS,Food and Drink,7/13/20,7/20/20
+Rankin,MS,Day Care,7/13/20,7/20/20
+Claiborne,MS,Non-Essential Businesses,7/13/20,7/20/20
+Sunflower,MS,Childcare (K-12),7/13/20,7/20/20
+DeSoto,MS,Childcare (K-12),7/13/20,7/20/20
+Jackson,MS,Outdoor and Recreation,7/13/20,7/20/20
+Madison,MS,Childcare (K-12),7/13/20,7/20/20
+Claiborne,MS,Food and Drink,7/13/20,7/20/20
+Quitman,MS,Outdoor and Recreation,7/13/20,7/20/20
+Sunflower,MS,Houses of Worship,7/13/20,7/20/20
+Quitman,MS,Food and Drink,7/13/20,7/20/20
+Jefferson,MS,Non-Essential Businesses,7/13/20,7/20/20
+Jefferson,MS,Entertainment,7/13/20,7/20/20
+Jefferson,MS,Outdoor and Recreation,7/13/20,7/20/20
+DeSoto,MS,Houses of Worship,7/13/20,7/20/20
+Washington,MS,Day Care,7/13/20,7/20/20
+Hinds,MS,Outdoor and Recreation,7/13/20,7/20/20
+Quitman,MS,Non-Essential Businesses,7/13/20,7/20/20
+Quitman,MS,Entertainment,7/13/20,7/20/20
+Monongalia,WV,Phase 2,7/14/20,7/24/20
+Elkhart,IN,Phase 4,7/16/20,7/31/20
+Union,OH,Mask Mandate,7/17/20,
+Richland,OH,Mask Mandate,7/17/20,
+Lucas,OH,Mask Mandate,7/17/20,
+Licking,OH,Mask Mandate,7/17/20,
+Allen,OH,Mask Mandate,7/17/20,
+Delaware,OH,Mask Mandate,7/17/20,
+Clermont,OH,Public Health Advisory System,7/23/20,
+Franklin,OH,Public Health Advisory System,7/23/20,
+Athens,OH,Public Health Advisory System,7/23/20,
+Montgomery,OH,Public Health Advisory System,7/23/20,
+Pickaway,OH,Public Health Advisory System,7/23/20,
+Scioto,OH,Public Health Advisory System,7/23/20,
+Hamilton,OH,Public Health Advisory System,7/23/20,
+Henry,OH,Public Health Advisory System,7/23/20,
+Lawrence,OH,Public Health Advisory System,7/23/20,
+Wood,OH,Public Health Advisory System,7/23/20,
+Hardin,OH,Public Health Advisory System,7/23/20,
+Medina,OH,Public Health Advisory System,7/23/20,
+Summit,OH,Public Health Advisory System,7/23/20,
+Cuyahoga,OH,Public Health Advisory System,7/23/20,
+Fairfield,OH,Public Health Advisory System,7/23/20,
+Monongalia,WV,Bars,7/23/20,8/13/20
+Montgomery,MS,Phase 3,7/25/20,8/3/20
+Lamar,MS,Phase 3,7/25/20,8/3/20
+Mackinac,MI,Entertainment,7/31/20,
+Menominee,MI,Entertainment,7/31/20,
+Luce,MI,Entertainment,7/31/20,
+Montmorency,MI,Outdoor and Recreation,7/31/20,
+Alpena,MI,Outdoor and Recreation,7/31/20,
+Iron,MI,Outdoor and Recreation,7/31/20,
+Mackinac,MI,Outdoor and Recreation,7/31/20,
+Ontonagon,MI,Outdoor and Recreation,7/31/20,
+Antrim,MI,Entertainment,7/31/20,
+Grand Traverse,MI,Outdoor and Recreation,7/31/20,
+Antrim,MI,Outdoor and Recreation,7/31/20,
+Iron,MI,Entertainment,7/31/20,
+Luce,MI,Outdoor and Recreation,7/31/20,
+Montmorency,MI,Entertainment,7/31/20,
+Grand Traverse,MI,Entertainment,7/31/20,
+Cheboygan,MI,Outdoor and Recreation,7/31/20,
+Cheboygan,MI,Entertainment,7/31/20,
+Ontonagon,MI,Entertainment,7/31/20,
+Alpena,MI,Entertainment,7/31/20,
+Wexford,MI,Entertainment,7/31/20,
+Presque Isle,MI,Entertainment,7/31/20,
+Wexford,MI,Outdoor and Recreation,7/31/20,
+Presque Isle,MI,Outdoor and Recreation,7/31/20,
+Menominee,MI,Outdoor and Recreation,7/31/20,
+Monroe,IL,Non-Essential Businesses,8/18/20,
+Monroe,IL,Entertainment,8/18/20,
+Monroe,IL,Food and Drink,8/18/20,
+Dallas,IA,Food and Drink,8/27/20,9/20/20
+Johnson,IA,Food and Drink,8/27/20,9/20/20
+Pima,AZ,Outdoor and Recreation,8/27/20,
+Apache,AZ,Non-Essential Businesses,8/27/20,
+Pima,AZ,Non-Essential Businesses,8/27/20,
+Apache,AZ,Outdoor and Recreation,8/27/20,
+Story,IA,Food and Drink,8/27/20,9/20/20
+Stark,ND,Phase 3,9/3/20,
+Burleigh,ND,Outdoor and Recreation,9/3/20,
+McIntosh,ND,Non-Essential Businesses,9/3/20,
+McLean,ND,Childcare (K-12),9/3/20,
+Morton,ND,Phase 3,9/3/20,
+Mercer,ND,Childcare (K-12),9/3/20,
+Burleigh,ND,Non-Essential Businesses,9/3/20,
+Barnes,ND,Non-Essential Businesses,9/3/20,
+McIntosh,ND,Outdoor and Recreation,9/3/20,
+Pierce,ND,Food and Drink,9/3/20,
+Benson,ND,Childcare (K-12),9/3/20,
+LaMoure,ND,Childcare (K-12),9/3/20,
+Nelson,ND,Outdoor and Recreation,9/3/20,
+Pierce,ND,Phase 5,9/3/20,
+Williams,ND,Childcare (K-12),9/3/20,
+Nelson,ND,Food and Drink,9/3/20,
+Pierce,ND,Non-Essential Businesses,9/3/20,
+Pierce,ND,Outdoor and Recreation,9/3/20,
+Divide,ND,Outdoor and Recreation,9/3/20,
+Nelson,ND,Phase 5,9/3/20,
+Griggs,ND,Childcare (K-12),9/3/20,
+Wells,ND,Childcare (K-12),9/3/20,
+Divide,ND,Food and Drink,9/3/20,
+Cavalier,ND,Childcare (K-12),9/3/20,
+McIntosh,ND,Phase 5,9/3/20,
+Barnes,ND,Food and Drink,9/3/20,
+Renville,ND,Childcare (K-12),9/3/20,
+Divide,ND,Non-Essential Businesses,9/3/20,
+Divide,ND,Phase 5,9/3/20,
+Traill,ND,Childcare (K-12),9/3/20,
+McIntosh,ND,Food and Drink,9/3/20,
+Walsh,ND,Childcare (K-12),9/3/20,
+Nelson,ND,Non-Essential Businesses,9/3/20,
+Williams,ND,Phase 3,9/3/20,
+Grand Forks,ND,Phase 3,9/3/20,
+Rolette,ND,Childcare (K-12),9/3/20,
+Barnes,ND,Outdoor and Recreation,9/3/20,
+Benson,ND,Phase 3,9/3/20,
+Grand Forks,ND,Childcare (K-12),9/3/20,
+McLean,ND,Phase 3,9/3/20,
+Billings,ND,Childcare (K-12),9/3/20,
+Pembina,ND,Childcare (K-12),9/3/20,
+Morton,ND,Childcare (K-12),9/3/20,
+Foster,ND,Childcare (K-12),9/3/20,
+Stark,ND,Childcare (K-12),9/3/20,
+Burleigh,ND,Food and Drink,9/3/20,
+Palm Beach,FL,Phase 2,9/4/20,
+Carbon,UT,Day Care,9/11/20,
+Carbon,UT,Houses of Worship,9/11/20,
+Lancaster,NE,Non-Essential Businesses,9/14/20,12/16/20
+Lancaster,NE,Food and Drink,9/14/20,12/16/20
+Honolulu,HI,Outdoor and Recreation,9/24/20,10/31/20
+Honolulu,HI,Entertainment,9/24/20,10/31/20
+Honolulu,HI,Non-Essential Businesses,9/24/20,10/31/20
+Archuleta,CO,Non-Essential Businesses,9/25/20,
+La Plata,CO,Mask Mandate,9/25/20,
+Archuleta,CO,Outdoor and Recreation,9/25/20,
+La Plata,CO,Houses of Worship,9/25/20,
+La Plata,CO,Phase 1,9/25/20,
+Archuleta,CO,Food and Drink,9/25/20,
+San Francisco,CA,Phase 2,9/30/20,
+San Francisco,CA,Childcare (K-12),9/30/20,
+Ventura,CA,Houses of Worship,10/6/20,
+Chaffee,CO,Phase 2,10/6/20,
+Ventura,CA,Phase 2,10/6/20,
+Chaffee,CO,Mask Mandate,10/6/20,
+Madison,ID,Childcare (K-12),10/27/20,
+Clark,ID,Mask Mandate,10/27/20,
+Twin Falls,ID,Phase 3,10/27/20,
+Bingham,ID,Childcare (K-12),10/27/20,
+Clark,ID,Phase 3,10/27/20,
+Canyon,ID,Phase 3,10/27/20,
+Oneida,ID,Phase 3,10/27/20,
+Washington,ID,Food and Drink,10/27/20,
+Valley,ID,Phase 3,10/27/20,
+Jefferson,ID,Phase 3,10/27/20,
+Teton,ID,Food and Drink,10/27/20,
+Clark,ID,Childcare (K-12),10/27/20,
+Custer,ID,Mask Mandate,10/27/20,
+Valley,ID,Childcare (K-12),10/27/20,
+Bingham,ID,Phase 3,10/27/20,
+Jefferson,ID,Childcare (K-12),10/27/20,
+Madison,ID,Mask Mandate,10/27/20,
+Oneida,ID,Childcare (K-12),10/27/20,
+Twin Falls,ID,Mask Mandate,10/27/20,
+Butte,ID,Food and Drink,10/27/20,
+Bonneville,ID,Childcare (K-12),10/27/20,
+Bonneville,ID,Mask Mandate,10/27/20,
+Custer,ID,Childcare (K-12),10/27/20,
+Madison,ID,Phase 3,10/27/20,
+Bonneville,ID,Phase 3,10/27/20,
+Custer,ID,Phase 3,10/27/20,
+Bingham,ID,Mask Mandate,10/27/20,
+Jefferson,ID,Mask Mandate,10/27/20,
+Franklin,ID,Food and Drink,10/27/20,
+Valley,ID,Mask Mandate,10/27/20,
+Oneida,ID,Mask Mandate,10/27/20,
+Fremont,ID,Food and Drink,10/27/20,
+Adams,ID,Phase 3,10/27/20,
+Elmore,ID,Food and Drink,10/27/20,
+Lemhi,ID,Food and Drink,10/27/20,
+Power,ID,Food and Drink,10/27/20,
+Gem,ID,Phase 3,10/27/20,
+Boise,ID,Food and Drink,10/27/20,
+Payette,ID,Phase 3,10/27/20,
+Bingham,ID,Houses of Worship,10/27/20,
+Owyhee,ID,Phase 3,10/27/20,
+Caribou,ID,Food and Drink,10/27/20,
+Otero,CO,Houses of Worship,10/30/20,
+Otero,CO,Phase 2,10/30/20,
+Otero,CO,Manufacturing,10/30/20,
+Lancaster,NE,Outdoor and Recreation,11/1/20,11/30/20
+Washington,UT,Mask Mandate,11/1/20,
+Forrest,MS,Outdoor and Recreation,11/12/20,12/12/20
+Forrest,MS,Non-Essential Businesses,11/12/20,12/12/20
+Lewis,ID,Phase 2,11/14/20,
+Latah,ID,Phase 2,11/14/20,
+Kootenai,ID,Food and Drink,11/14/20,
+Boundary,ID,Childcare (K-12),11/14/20,
+Idaho,ID,Food and Drink,11/14/20,
+Nez Perce,ID,Food and Drink,11/14/20,
+Clearwater,ID,Phase 2,11/14/20,
+Benewah,ID,Childcare (K-12),11/14/20,
+Boundary,ID,Phase 2,11/14/20,
+Boundary,ID,Mask Mandate,11/14/20,
+Latah,ID,Childcare (K-12),11/14/20,
+Lewis,ID,Mask Mandate,11/14/20,
+Latah,ID,Mask Mandate,11/14/20,
+Benewah,ID,Mask Mandate,11/14/20,
+Bonner,ID,Phase 2,11/14/20,
+Bonner,ID,Mask Mandate,11/14/20,
+Clearwater,ID,Mask Mandate,11/14/20,
+Shoshone,ID,Food and Drink,11/14/20,
+Bonner,ID,Childcare (K-12),11/14/20,
+Benewah,ID,Phase 2,11/14/20,
+San Diego,CA,Shelter in Place,11/16/20,
+San Diego,CA,Non-Essential Businesses,11/16/20,
+San Diego,CA,Outdoor and Recreation,11/16/20,
+Glenn,CA,Non-Essential Businesses,11/16/20,
+Stanislaus,CA,Houses of Worship,11/16/20,
+Fresno,CA,Shelter in Place,11/16/20,
+Glenn,CA,Outdoor and Recreation,11/16/20,
+San Diego,CA,Food and Drink,11/16/20,
+Glenn,CA,Food and Drink,11/16/20,
+Fresno,CA,Food and Drink,11/16/20,
+Fresno,CA,Non-Essential Businesses,11/16/20,
+Fresno,CA,Outdoor and Recreation,11/16/20,
+Glenn,CA,Shelter in Place,11/16/20,
+El Dorado,CA,Non-Essential Businesses,11/17/20,
+El Dorado,CA,Food and Drink,11/17/20,
+Kings,CA,Houses of Worship,11/17/20,
+El Dorado,CA,Outdoor and Recreation,11/17/20,
+Garfield,UT,Entertainment,11/23/20,
+Garfield,UT,Outdoor and Recreation,11/23/20,
+Garfield,UT,Food and Drink,11/23/20,
+Garfield,UT,Non-Essential Businesses,11/23/20,
+Davis,UT,Outdoor and Recreation,11/24/20,
+Salt Lake,UT,Non-Essential Businesses,11/24/20,
+Sevier,UT,Mask Mandate,11/24/20,
+Weber,UT,Phase 1,11/24/20,
+Millard,UT,Non-Essential Businesses,11/24/20,
+Wasatch,UT,Mask Mandate,11/24/20,
+Morgan,UT,Entertainment,11/24/20,
+Carbon,UT,Childcare (K-12),11/24/20,
+Sevier,UT,Phase 1,11/24/20,
+Cache,UT,Non-Essential Businesses,11/24/20,
+Duchesne,UT,Mask Mandate,11/24/20,
+Carbon,UT,Mask Mandate,11/24/20,
+Iron,UT,Phase 1,11/24/20,
+Weber,UT,Mask Mandate,11/24/20,
+Sevier,UT,Childcare (K-12),11/24/20,
+Cache,UT,Outdoor and Recreation,11/24/20,
+Emery,UT,Food and Drink,11/24/20,
+Sanpete,UT,Phase 1,11/24/20,
+Weber,UT,Childcare (K-12),11/24/20,
+Utah,UT,Non-Essential Businesses,11/24/20,
+Kane,UT,Phase 1,11/24/20,
+Washington,UT,Phase 1,11/24/20,
+Davis,UT,Entertainment,11/24/20,
+Tooele,UT,Non-Essential Businesses,11/24/20,
+Sanpete,UT,Childcare (K-12),11/24/20,
+Uintah,UT,Childcare (K-12),11/24/20,
+Wayne,UT,Entertainment,11/24/20,
+Summit,UT,Food and Drink,11/24/20,
+Forrest,MS,Food and Drink,11/24/20,
+Iron,UT,Childcare (K-12),11/24/20,
+Summit,UT,Non-Essential Businesses,11/24/20,
+Beaver,UT,Mask Mandate,11/24/20,
+Wasatch,UT,Phase 1,11/24/20,
+Millard,UT,Food and Drink,11/24/20,
+Kane,UT,Childcare (K-12),11/24/20,
+Grand,UT,Food and Drink,11/24/20,
+Millard,UT,Entertainment,11/24/20,
+Davis,UT,Non-Essential Businesses,11/24/20,
+Morgan,UT,Outdoor and Recreation,11/24/20,
+Salt Lake,UT,Entertainment,11/24/20,
+Juab,UT,Mask Mandate,11/24/20,
+Millard,UT,Outdoor and Recreation,11/24/20,
+Uintah,UT,Mask Mandate,11/24/20,
+Utah,UT,Entertainment,11/24/20,
+Box Elder,UT,Mask Mandate,11/24/20,
+Carbon,UT,Phase 1,11/24/20,
+Emery,UT,Entertainment,11/24/20,
+Wayne,UT,Outdoor and Recreation,11/24/20,
+Cache,UT,Entertainment,11/24/20,
+Davis,UT,Food and Drink,11/24/20,
+Tooele,UT,Entertainment,11/24/20,
+Salt Lake,UT,Food and Drink,11/24/20,
+Grand,UT,Entertainment,11/24/20,
+Grand,UT,Non-Essential Businesses,11/24/20,
+Wayne,UT,Food and Drink,11/24/20,
+Beaver,UT,Phase 1,11/24/20,
+Juab,UT,Phase 1,11/24/20,
+Summit,UT,Entertainment,11/24/20,
+Wayne,UT,Non-Essential Businesses,11/24/20,
+Emery,UT,Non-Essential Businesses,11/24/20,
+Beaver,UT,Childcare (K-12),11/24/20,
+Kane,UT,Mask Mandate,11/24/20,
+Juab,UT,Childcare (K-12),11/24/20,
+Duchesne,UT,Childcare (K-12),11/24/20,
+Utah,UT,Outdoor and Recreation,11/24/20,
+Morgan,UT,Food and Drink,11/24/20,
+Duchesne,UT,Phase 1,11/24/20,
+Box Elder,UT,Phase 1,11/24/20,
+Tooele,UT,Food and Drink,11/24/20,
+Box Elder,UT,Childcare (K-12),11/24/20,
+Wasatch,UT,Childcare (K-12),11/24/20,
+Tooele,UT,Outdoor and Recreation,11/24/20,
+Sanpete,UT,Mask Mandate,11/24/20,
+Emery,UT,Outdoor and Recreation,11/24/20,
+San Juan,UT,Phase 1,11/24/20,
+Morgan,UT,Non-Essential Businesses,11/24/20,
+Utah,UT,Food and Drink,11/24/20,
+San Juan,UT,Childcare (K-12),11/24/20,
+San Juan,UT,Mask Mandate,11/24/20,
+Cache,UT,Food and Drink,11/24/20,
+Salt Lake,UT,Outdoor and Recreation,11/24/20,
+Summit,UT,Outdoor and Recreation,11/24/20,
+Iron,UT,Mask Mandate,11/24/20,
+Uintah,UT,Phase 1,11/24/20,
+Grand,UT,Outdoor and Recreation,11/24/20,
+Washington,UT,Childcare (K-12),11/24/20,
+Lincoln,NE,Childcare (K-12),11/25/20,12/16/20
+Lincoln,NE,Mask Mandate,11/25/20,12/16/20
+Lincoln,NE,Phase 1,11/25/20,12/16/20
